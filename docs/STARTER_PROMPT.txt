@@ -1,0 +1,13 @@
+Help me set up and run my first standalone mixed-reality app on a Meta Quest 3. I'm on Windows and I'm a beginner.
+
+Starter repository: https://github.com/AETHER-AR/quest-vibecoding-starter
+
+Download this project into a separate folder in my current workspace. Do not overwrite an existing project. Read README.md, AGENTS.md and the validation notes before making changes.
+
+Find the tools already installed on this computer. Set up the missing tools and dependencies using the project's pinned versions and official sources. Use the available tools to do the computer work yourself. Give me a short checklist and brief progress updates.
+
+Guide me through any Meta developer setup, headset settings and USB connection steps that are still needed. Pause for sign-ins, license acceptance, required approvals or confirmations that I must complete myself. Never bypass them.
+
+Use the project's commands to check the setup, build the starter and install that exact successful build on my USB-connected Quest. If something fails, investigate and explain the blocker; don't install an old build or claim a check passed without evidence.
+
+Stop after the starter is installed. Tell me what to check in the headset and wait for my result before adding features.
