@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.asset whitespace=-blank-at-eol
+*.unity whitespace=-blank-at-eol
+*.meta whitespace=-blank-at-eol
+*.mat whitespace=-blank-at-eol
