@@ -6,6 +6,12 @@ Build a small mixed reality app on a **Meta Quest 3**. Start with a floating scu
 
 This is a standalone Unity Android app. Your computer builds it; your Quest runs it. There is no PC streaming, runtime AI assistant, API key or API bill in this example. Codex is the development tool. Its account/access requirements are separate.
 
+## Start with Codex
+
+Open a new, empty project folder in Codex and paste the [starter setup prompt](docs/STARTER_PROMPT.txt). It asks Codex to download this repository, inspect the installed tools, guide the required account/headset confirmations, then build and install the baseline before adding features. The steps below explain that process and also serve as a manual reference.
+
+The prompt has not yet been validated end to end on a clean Windows installation. Check [validation](docs/VALIDATION.md) for the current tested scope.
+
 ## 1. What you need
 
 - Quest 3 and its Touch controllers, charged.
